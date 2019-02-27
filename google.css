@@ -1,0 +1,29 @@
+.image{
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.buttons {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.input{
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+}
+
+#search{
+    width: 450px;
+    line-height: 32px;
+}
+.button {
+    height: 40px;
+    line-height: 30px;
+    border-radius: 10px;
+    padding: 0 16px;
+}
